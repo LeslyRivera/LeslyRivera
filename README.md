@@ -2,14 +2,14 @@
 <h1 align="center"> Hola, mi nombre es Lesly! // Hi, my name is Lesly! 👋</h1>
 <p align="center"> Soy una mujer apasionada por la tecnología</p>
 
-## Sobre mi // About me
+## Sobre mi
 <p>Soy estudiante en el Instituto Politécnico Nacional en la Licenciatura en Ciencias de la informática.</p>
 <p>Me he interesado en concluir cursos relacionados con mi carrera que me ayuden a crecer profesionalmente, como Finder, Técnico en Informática, Técnico en seguridad informática, Técnico en instalación y reparación de equipos de cómputo, Técnico en redes de datos, Excel básico e intermedio y un diplomado en Técnico en sistemas informáticos.</p>
-<p>I am a student at the National Polytechnic Institute in the Bachelor of Computer Science.</p>
-<p>I have been interested in completing courses related to my career that help me grow professionally, such as Finder, Computer Technician, Computer Security Technician, Computer Equipment Installation and Repair Technician, Data Network Technician, Basic and Intermediate Excel and a Diploma in Computer Systems Technician.</p>
 
+## Conferencias:
+<a href="https://www.youtube.com/live/1koMw0F0yNs?feature=share">Nenúfar Ep.9 min.59</a>
 
-## Contacto: // Contact:
+## Contacto: 
 <p align="left">
 <a href="www.linkedin.com/in/lesly-paola-rivera-vargas" ><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/2560px-LinkedIn_Logo.svg.png" alt="Lesly Paola Rivera Vargas" height="30" width="40" /></a>
 <a href="https://instagram.com/leslyriverav/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
